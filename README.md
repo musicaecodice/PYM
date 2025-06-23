@@ -3,6 +3,9 @@ Sistemi e linguaggi di programmazione per l'audio e le applicazioni musicali 1 [
 
 Introduzione a Python per applicazioni musicali.
 
+Per una lettura statica:
+1.  Aprire il file 'indice.ipynb'
+
 Per un utilizzo interattivo del Notebook:
 1. Installare la distribuzione [Anaconda](https://www.anaconda.com/download).
 2. Installare l'estensione 'Jupyter' in VSCode.
