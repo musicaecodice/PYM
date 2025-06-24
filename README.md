@@ -13,3 +13,4 @@ Per un utilizzo interattivo del Notebook:
 4. Espandere (unzip) la cartella.
 5. Trascinare la cartella sull'icona di VScode.
 6. Aprire il file 'indice.ipynb'
+7. Selezionare il Kernel Python desiderato
